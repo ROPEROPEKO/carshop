@@ -164,4 +164,9 @@ footer {
 }
 #container {
     vertical-align: middle;
+    background-color: lavender;
+}
+
+body {
+    background-color: white;
 }
