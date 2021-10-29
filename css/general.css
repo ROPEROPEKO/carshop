@@ -1,0 +1,164 @@
+/* h1 {
+    background-color: #409cb3;
+    color: rgb(240, 248, 250);
+}
+
+h2 {
+    color: salmon;
+}
+
+
+
+#newdiv {
+    background-color: rebeccapurple !important;
+}
+
+div{
+    background-color: springgreen !important;
+} */
+
+.main_link {
+    background-color: seashell;
+    text-decoration: none;
+}
+
+#current_page {
+    background-color: rgb(111, 165, 209);
+}
+
+.main_link:hover {
+    background-color: turquoise;
+}
+
+#firstname:active {
+    background-color: yellow;
+}
+
+/* div ,span {
+    color: blue;
+} */
+
+/* div span {
+    background-color: turquoise;
+} */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: #409cb3;
+    font-size: 50px;
+    font-weight: bold;
+    /* font-style: italic; */
+    text-transform: capitalize;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 3px 2px 2px gray;
+    /* letter-spacing: 25px */
+    color:#e6f701;
+    
+
+
+}
+
+/* h2 {
+    /* text-indent: -50px; */
+/* } */ */
+
+li {
+    list-style: initial;
+}
+ol >li {
+    list-style: upper-roman;
+    list-style-position: inside;
+}
+ul > li {
+    list-style: url(../images/blue_dot.png) circle inside;
+}
+
+ul{
+    list-style: square;
+}
+.about_us_photo {
+    height: 350px;
+    width: 350px;
+    background-color: lightcoral;
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    /* background-position: -400px -200px; */
+    background-attachment: scroll;
+    background-size: contain;
+    border: 15px solid lavender;
+    /* border-radius: 350px; */
+    box-shadow: 15px 15px 5px lawngreen;
+    display: inline-block;
+    vertical-align: top;
+    margin: 40px;
+
+
+}
+#photo1 {
+    /* background-image: url("../images/building.jpg"); */
+    background: thistle url("../images/building.jpg") repeat-y center;
+    /* margin: 10px 20px 30px -40px; */
+    /* position: absolute;
+    left: 60px;
+    top: 100px; */
+    /* z-index: 1; */
+}
+#photo2 {
+    background-image: url("../images/award.jpg");
+    /* padding: 75px; */
+    /* overflow: scroll; */
+    box-sizing: border-box;
+    /* position: relative; */
+    /* z-index: -1000; */
+}
+#photo3 {
+    background-image: url("../images/ceo.jpg");
+}
+#photo4 {
+    background-image: url("../images/News-and-Interest---Blog-Headers_0044_Blog-Covers---white-copy-34.jpg");
+}
+
+#photo5 {
+    background-image: url("../images/carshop.jpg");
+}
+#photo6 {
+    background-image: url("../images/maintenance.jpg");
+}
+#container {
+    width: 85%;
+    margin: auto;
+}
+
+#main_banner {
+    width: 100%
+}
+
+table {
+    empty-cells: show;
+    /* border-spacing: 10px; */
+    border-collapse: collapse;
+
+}
+#blue_dot {
+    float: right;
+}
+#test_paragraph {
+    clear: left;
+}
+h2 {
+    color: lightcoral;
+    font-size: 20pt;
+}
+a {
+    font-size: 15pt;
+}
+
+footer {
+    text-align: center;
+    padding :10px 0px;
+    color: white;
+    background-color: maroon;
+}

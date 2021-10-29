@@ -1,0 +1,171 @@
+.box {
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    
+    
+}
+
+
+#blue_box {
+    background-color: blue;
+    margin-top: 100px;
+    
+}
+
+#green_box {
+    background-color: green;
+    margin-top: -230px;
+    
+}
+
+#red_box {
+    background-color: red;
+    margin-top: -230px;
+}
+
+#maroon_box {
+    background-color: maroon;
+    margin-top: -230px;
+}
+
+#blue1 {
+    position: relative;
+    height: 10px;
+    width: 140px;
+    background-color: blue;
+    margin: auto;
+    top: -80px;
+}
+#blue2 {
+    position: relative;
+    height: 10px;
+    width: 140px;
+    background-color: blue;
+    margin: auto;
+    top: -40px;
+}
+
+#blue3 {
+    position: relative;
+    height: 140px;
+    width: 10px;
+    background-color: blue;
+    margin: auto;
+    top: -140px;
+    left: -25px;
+}
+#blue4 {
+    position: relative;
+    height: 140px;
+    width: 10px;
+    background-color: blue;
+    margin: auto;
+    top: -280px;
+    left: 25px;
+}
+#green1 {
+    position: relative;
+    height: 10px;
+    width: 140px;
+    background-color: green;
+    margin: auto;
+    top: -80px;
+}
+#green2 {
+    position: relative;
+    height: 10px;
+    width: 140px;
+    background-color: green;
+    margin: auto;
+    top: -40px;
+}
+
+#green3 {
+    position: relative;
+    height: 140px;
+    width: 10px;
+    background-color: green;
+    margin: auto;
+    top: -140px;
+    left: -25px;
+}
+#green4 {
+    position: relative;
+    height: 140px;
+    width: 10px;
+    background-color: green;
+    margin: auto;
+    top: -280px;
+    left: 25px;
+}
+#red1 {
+    position: relative;
+    height: 10px;
+    width: 140px;
+    background-color: red;
+    margin: auto;
+    top: -80px;
+}
+#red2 {
+    position: relative;
+    height: 10px;
+    width: 140px;
+    background-color: red;
+    margin: auto;
+    top: -40px;
+}
+
+#red3 {
+    position: relative;
+    height: 140px;
+    width: 10px;
+    background-color: red;
+    margin: auto;
+    top: -140px;
+    left: -25px;
+}
+#red4 {
+    position: relative;
+    height: 140px;
+    width: 10px;
+    background-color: red;
+    margin: auto;
+    top: -280px;
+    left: 25px;
+}
+#maroon1 {
+    position: relative;
+    height: 10px;
+    width: 140px;
+    background-color: maroon;
+    margin: auto;
+    top: -80px;
+}
+#maroon2 {
+    position: relative;
+    height: 10px;
+    width: 140px;
+    background-color: maroon;
+    margin: auto;
+    top: -40px;
+}
+
+#maroon3 {
+    position: relative;
+    height: 140px;
+    width: 10px;
+    background-color: maroon;
+    margin: auto;
+    top: -140px;
+    left: -25px;
+}
+#maroon4 {
+    position: relative;
+    height: 140px;
+    width: 10px;
+    background-color: maroon;
+    margin: auto;
+    top: -280px;
+    left: 25px;
+}
