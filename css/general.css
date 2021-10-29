@@ -149,7 +149,7 @@ table {
     clear: left;
 }
 h2 {
-    color: lightcoral;
+    color: #0b70d6;
     font-size: 20pt;
 }
 a {
@@ -160,5 +160,8 @@ footer {
     text-align: center;
     padding :10px 0px;
     color: white;
-    background-color: maroon;
+    background-color: #1858b8;
+}
+#container {
+    vertical-align: middle;
 }
