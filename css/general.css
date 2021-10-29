@@ -87,7 +87,7 @@ ul{
     background-repeat: no-repeat;
     /* background-position: -400px -200px; */
     background-attachment: scroll;
-    background-size: contain;
+    background-size: cover;
     border: 15px solid lavender;
     /* border-radius: 350px; */
     /* box-shadow: 15px 15px 5px lawngreen; */
@@ -107,25 +107,26 @@ ul{
     /* z-index: 1; */
 }
 #photo2 {
-    background-image: url("../images/award.jpg");
+    background-image: url("../images/ceo.jpg");
     /* padding: 75px; */
     /* overflow: scroll; */
     box-sizing: border-box;
     /* position: relative; */
     /* z-index: -1000; */
+    background-size: 350px 200px;
 }
 #photo3 {
-    background-image: url("../images/ceo.jpg");
+    background-image: url("../images/1stbranch.jpeg");
 }
 #photo4 {
-    background-image: url("../images/News-and-Interest---Blog-Headers_0044_Blog-Covers---white-copy-34.jpg");
+    background-image: url("../images/employees.jpeg");
 }
 
 #photo5 {
-    background-image: url("../images/carshop.jpg");
+    background-image: url("../images/award.jpg");
 }
 #photo6 {
-    background-image: url("../images/maintenance.jpg");
+    background-image: url("../images/csr.jpg");
 }
 #container {
     width: 85%;
