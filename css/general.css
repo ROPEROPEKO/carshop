@@ -80,7 +80,7 @@ ul{
     list-style: square;
 }
 .about_us_photo {
-    height: 350px;
+    height: 200px;
     width: 350px;
     background-color: lightcoral;
     margin-bottom: 10px;
@@ -90,7 +90,7 @@ ul{
     background-size: contain;
     border: 15px solid lavender;
     /* border-radius: 350px; */
-    box-shadow: 15px 15px 5px lawngreen;
+    /* box-shadow: 15px 15px 5px lawngreen; */
     display: inline-block;
     vertical-align: top;
     margin: 40px;
